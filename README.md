@@ -1,4 +1,4 @@
-cgdl  
+inorm  
 
 An illumination normalization algorithm.
 
